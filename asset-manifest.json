@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/judgementhall/static/css/main.1d229ecb.chunk.css",
+    "main.css": "/judgementhall/static/css/main.e70bae82.chunk.css",
     "main.js": "/judgementhall/static/js/main.f22098ff.chunk.js",
     "main.js.map": "/judgementhall/static/js/main.f22098ff.chunk.js.map",
     "runtime~main.js": "/judgementhall/static/js/runtime~main.ce401fe5.js",
@@ -8,9 +8,9 @@
     "static/js/2.cedb9772.chunk.js": "/judgementhall/static/js/2.cedb9772.chunk.js",
     "static/js/2.cedb9772.chunk.js.map": "/judgementhall/static/js/2.cedb9772.chunk.js.map",
     "index.html": "/judgementhall/index.html",
-    "precache-manifest.786fe6f00f68b6963a6568d6c943fa0b.js": "/judgementhall/precache-manifest.786fe6f00f68b6963a6568d6c943fa0b.js",
+    "precache-manifest.5a084e5a110aef2126669d7117a286ea.js": "/judgementhall/precache-manifest.5a084e5a110aef2126669d7117a286ea.js",
     "service-worker.js": "/judgementhall/service-worker.js",
-    "static/css/main.1d229ecb.chunk.css.map": "/judgementhall/static/css/main.1d229ecb.chunk.css.map",
+    "static/css/main.e70bae82.chunk.css.map": "/judgementhall/static/css/main.e70bae82.chunk.css.map",
     "static/media/pagelabel.gif": "/judgementhall/static/media/pagelabel.2efedeee.gif"
   }
 }
