@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/judgementhall/static/css/main.0e8bef65.chunk.css",
+    "main.js": "/judgementhall/static/js/main.5466f1cc.chunk.js",
+    "main.js.map": "/judgementhall/static/js/main.5466f1cc.chunk.js.map",
+    "runtime~main.js": "/judgementhall/static/js/runtime~main.ce401fe5.js",
+    "runtime~main.js.map": "/judgementhall/static/js/runtime~main.ce401fe5.js.map",
+    "static/js/2.24f5194f.chunk.js": "/judgementhall/static/js/2.24f5194f.chunk.js",
+    "static/js/2.24f5194f.chunk.js.map": "/judgementhall/static/js/2.24f5194f.chunk.js.map",
+    "index.html": "/judgementhall/index.html",
+    "precache-manifest.1543ab463743aae7001f1f9fecb43e67.js": "/judgementhall/precache-manifest.1543ab463743aae7001f1f9fecb43e67.js",
+    "service-worker.js": "/judgementhall/service-worker.js",
+    "static/css/main.0e8bef65.chunk.css.map": "/judgementhall/static/css/main.0e8bef65.chunk.css.map"
+  }
+}
