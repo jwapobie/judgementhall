@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/judgementhall/static/css/main.0e8bef65.chunk.css",
-    "main.js": "/judgementhall/static/js/main.5466f1cc.chunk.js",
-    "main.js.map": "/judgementhall/static/js/main.5466f1cc.chunk.js.map",
+    "main.css": "/judgementhall/static/css/main.1d229ecb.chunk.css",
+    "main.js": "/judgementhall/static/js/main.f22098ff.chunk.js",
+    "main.js.map": "/judgementhall/static/js/main.f22098ff.chunk.js.map",
     "runtime~main.js": "/judgementhall/static/js/runtime~main.ce401fe5.js",
     "runtime~main.js.map": "/judgementhall/static/js/runtime~main.ce401fe5.js.map",
-    "static/js/2.24f5194f.chunk.js": "/judgementhall/static/js/2.24f5194f.chunk.js",
-    "static/js/2.24f5194f.chunk.js.map": "/judgementhall/static/js/2.24f5194f.chunk.js.map",
+    "static/js/2.cedb9772.chunk.js": "/judgementhall/static/js/2.cedb9772.chunk.js",
+    "static/js/2.cedb9772.chunk.js.map": "/judgementhall/static/js/2.cedb9772.chunk.js.map",
     "index.html": "/judgementhall/index.html",
-    "precache-manifest.1543ab463743aae7001f1f9fecb43e67.js": "/judgementhall/precache-manifest.1543ab463743aae7001f1f9fecb43e67.js",
+    "precache-manifest.786fe6f00f68b6963a6568d6c943fa0b.js": "/judgementhall/precache-manifest.786fe6f00f68b6963a6568d6c943fa0b.js",
     "service-worker.js": "/judgementhall/service-worker.js",
-    "static/css/main.0e8bef65.chunk.css.map": "/judgementhall/static/css/main.0e8bef65.chunk.css.map"
+    "static/css/main.1d229ecb.chunk.css.map": "/judgementhall/static/css/main.1d229ecb.chunk.css.map",
+    "static/media/pagelabel.gif": "/judgementhall/static/media/pagelabel.2efedeee.gif"
   }
 }
